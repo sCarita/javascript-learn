@@ -1,4 +1,4 @@
-# Object & Array Destructuring
+# Shorthand Properties
 
 source: https://platform.ui.dev/courses/modern-javascript/shorthand-properties
 
